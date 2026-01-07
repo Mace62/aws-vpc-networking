@@ -158,18 +158,18 @@ This project successfully demonstrates:
 ---
 
 ## 📂 Repository Structure
-VPC and Networking/
+aws-vpc-networking/
 ├── README.md
 ├── screenshots/
-│ ├── 01-vpc.png
-│ ├── 02-subnets.png
-│ ├── 03-internet-gateway.png
-│ ├── 04-nat-gateway.png
-│ ├── 04-nat-gateway-list.png
-│ ├── 05-public-route-table.png
-│ ├── 06-private-route-table.png
-│ ├── 09-public-ec2.png
-│ ├── 10-private-ec2.png
-│ ├── 11-public-sg.png
-│ ├── 12-private-sg.png
-│ └── 13-bastion-ssh.png
+│   ├── 01-vpc.png
+│   ├── 02-subnets.png
+│   ├── 03-internet-gateway.png
+│   ├── 04-nat-gateway.png
+│   ├── 04-nat-gateway-list.png
+│   ├── 05-public-route-table.png
+│   ├── 06-private-route-table.png
+│   ├── 09-public-ec2.png
+│   ├── 10-private-ec2.png
+│   ├── 11-public-sg.png
+│   ├── 12-private-sg.png
+│   └── 13-bastion-ssh.png
